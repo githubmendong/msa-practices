@@ -1,9 +1,12 @@
+## mac
+**/.DS_Store
+
 ## maven
 **/target/
 **/build/
 **/out
 
-## eclipse, ets
+## eclipse, sts
 **/.settings
 **/.classpath
 **/.project
@@ -11,5 +14,6 @@
 **/.sts4-cache
 **/.springBeans
 
-## node 
+## node
 **/node_modules
+
